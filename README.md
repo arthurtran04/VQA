@@ -2,7 +2,7 @@
 
 ## Introduction
 
-
+VQA is a Python-based project that implements Visual Question Answering using the BLIP model. This repository enables users to input an image and a related question, leveraging advanced machine learning techniques to generate accurate answers by understanding both the visual content and the textual query.
 
 ## Table of Contents
 
