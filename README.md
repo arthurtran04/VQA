@@ -1,4 +1,4 @@
-# Visual Question Answering Application using BLIP model
+# Visual Question Answering using BLIP model
 
 ## Introduction
 
