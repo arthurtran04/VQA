@@ -73,21 +73,18 @@ To start the application, run the `app.py` file:
    ```
 This application will run locally at `http://127.0.0.1:7860`:
 
-<img width="600rem" alt="Terminal" src="https://github.com/user-attachments/assets/f38485bb-8630-45bf-affc-e1a173f19e87"/>
+<img width="600rem" alt="Webpage" src="https://github.com/user-attachments/assets/d558c872-d3fb-4b9d-86cc-b32821928a63" />
+"/>
 
-The UI:
+Upload your image and enter a question then click **Submit** button, the application will generate the answer in the right box:
 
-<img width="600rem" alt="Webpage" src="https://github.com/user-attachments/assets/6d013928-b0b4-4c13-b03c-6d617e692646"/>
-
-Upload your photo in the left box and click **Submit** button, the application will generate the image caption in the right box:
-
-<img width="600rem" alt="Example" src="https://github.com/user-attachments/assets/e39f8825-fc4d-42aa-9429-3941c2eb6014"/>
+<img width="600rem" alt="Example" src="https://github.com/user-attachments/assets/48ce222a-352f-4ed3-96c8-1aa8f99b752d"/>
 
 To stop the application, use `Ctrl + C` in the Terminal
 
 ## Demo
 
-My demo on Hugging Face Spaces: [link](https://huggingface.co/spaces/josephtran04/image-captioning)
+My demo on Hugging Face Spaces: [link](https://huggingface.co/spaces/josephtran04/VQA)
 
 ## License
 
