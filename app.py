@@ -1,3 +1,5 @@
+# This script creates a simple web application using Gradio to generate answers for VQA using the BLIP model from Hugging Face's Transformers library.
+# Import necessary libraries
 import gradio as gr
 import numpy as np
 from PIL import Image
@@ -18,7 +20,7 @@ def VQA(input_image: np.ndarray, question):
     # Generate the answer using the model
     outputs = model.generate(**inputs, max_length=100)
 
-    # Decode the generated tokens to text and store it into `output`
+    # Decode the generated tokens to text and store it into `answer`
     answer = processor.decode(outputs[0], skip_special_tokens=True)
 
     return answer
