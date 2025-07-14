@@ -1,4 +1,4 @@
-# Visual Question Answering using BLIP model
+# Visual Question Answering
 
 ## Introduction
 
@@ -37,8 +37,7 @@ VQA/
 
 ## Features
 
-- VQA Application using BLIP model from Salesforce
-- Using Gradio UI
+Answer questions related to a image uploaded by user.
 
 ## Installation
 
